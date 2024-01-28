@@ -1,0 +1,13 @@
+.gen{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif; 
+}
+
+.blkbg{
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+.yelbg{
+    background-color: yellow;
+}
